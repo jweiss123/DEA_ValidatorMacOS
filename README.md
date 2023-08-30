@@ -5,9 +5,9 @@ https://web.archive.org/web/20170120164502/https://www.deadiversion.usdoj.gov/fa
 
 This program aims to expedite the verification process for pharmacists who receive hard copies of C-II through C-V prescriptions by using optical character recognition (OCR). 
 
-[MacOS Version](https://github.com/jweiss123/DEA-Validator/tree/MacOS)
+[MacOS Version](https://github.com/jweiss123/DEA_ValidatorMacOS)
 
-[Windows Version](https://github.com/jweiss123/DEA-Validator/tree/Windows)
+[Windows Version](https://github.com/jweiss123/DEA_ValidatorWin)
 
 ### 1.1 INTRODUCTION
 
